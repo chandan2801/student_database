@@ -422,7 +422,32 @@ h4 {
 </div>
 </div>
 <hr>
-
+<div class="container-fluid bg-grey" id="contact">
+  <h2 class="text-center">CONTACT</h2>
+  <div class="row">
+    <div class="col-lg-3">
+      <p><span class="glyphicon glyphicon-user"></span> Chandan Prusty</p>
+      <p><span class="glyphicon glyphicon-phone"></span> +91 9658944313</p>
+      <p><span class="glyphicon glyphicon-envelope"></span> cprusty58@gmail.com</p> 
+    </div>
+    <div class="col-lg-3">
+      <p><span class="glyphicon glyphicon-user"></span> Chinmoy Pradhan</p>
+      <p><span class="glyphicon glyphicon-phone"></span> +91 9658944313</p>
+      <p><span class="glyphicon glyphicon-envelope"></span> chinmoy.prahdan4@gmail.com</p> 
+    </div>
+    <div class="col-lg-3">
+      <p><span class="glyphicon glyphicon-user"></span> Sibasish Jena</p>
+      <p><span class="glyphicon glyphicon-phone"></span> +91 9040388803</p>
+      <p><span class="glyphicon glyphicon-envelope"></span> sibasish.jena@gmail.com</p> 
+    </div>
+    <div class="col-lg-3">
+      <p><span class="glyphicon glyphicon-user"></span> Amit Singh</p>
+      <p><span class="glyphicon glyphicon-phone"></span> +91 9658944313</p>
+      <p><span class="glyphicon glyphicon-envelope"></span> amitsingh@gmail.com</p> 
+    </div>
+  </div>
+</div>
+<footer class="container-fluid text-center" id="footer">
   <a href="#myPage" title="To Top">
     <span class="glyphicon glyphicon-chevron-up"></span>
   </a>
