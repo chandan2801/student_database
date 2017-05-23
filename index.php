@@ -90,42 +90,18 @@ button {
   opacity: 1;
   right: 0;
 }
-.button1 {
+.btn {
   border-radius: 4px;
-  background-color: #DAA520;
-  border: none;
-  color: #FFFFFF;
-  text-align: center;
-  font-size: 28px;
-  padding: 20px;
-  width: 320px;
-  transition: all 0.5s;
-  cursor: pointer;
-  margin: 5px;
-}
-.button1 span {
-  cursor: pointer;
-  display: inline-block;
-  position: relative;
-  transition: 0.5s;
-}
-
-.button1 span:after {
-  content: '»';
-  position: absolute;
-  opacity: 0;
-  top: 0;
-  right: -20px;
-  transition: 0.5s;
-}
-
-.button1:hover span {
-  padding-right: 25px;
-}
-
-.button1:hover span:after {
-  opacity: 1;
-  right: 0;
+  background: #0084ff;
+  color: #fff;
+  font-size: 13px;
+  padding: 6px 8px;
+  display:inline-block;
+  font-family: helvetica, arial, sans-serifnn;
+  white-space: nowrap;
+  z-index: 99999;
+  position: fixed;
+  float: right;
 }
 
 /* Extra styles for the cancel button */
@@ -363,6 +339,7 @@ h4 {
         <li><a href="#about">ABOUT</a></li>
         <li><a href="#contact">CONTACT</a></li>
         <li><a href="html/register.php"><span class="glyphicon glyphicon-user" style="color:#fff";></span> REGISTER</a></li>
+        <li></li>
       </ul>
     </div>
   </div>
