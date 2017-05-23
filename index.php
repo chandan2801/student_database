@@ -344,6 +344,9 @@ h4 {
     </div>
   </div>
 </nav>
+<div class="messenger">
+  <button type="button" class="btn" onclick="window.location.href='https://m.me/justcsethings'">Message Us</button>
+</div>
 <div class="jumbotron text-center">
   <h1 id="h01">STUDENT DATABASE</h1>
   <p1 style="color: #C5D5E6;">Online Archive For Students</p1>
